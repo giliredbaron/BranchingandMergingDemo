@@ -14,7 +14,7 @@ node {
   }
  
   sh ""
-  "chmod +x HelloWorld.sh 
+  "chmod +x test.sh
   . / test.sh ""
   "
  
